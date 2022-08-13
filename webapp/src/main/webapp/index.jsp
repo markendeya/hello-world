@@ -3,7 +3,7 @@
     <h1>New user dockercontainer Deployed succesful for DevOps Learning</h1>
     <p>Please fill in this form to create an account.</p>
     <hr>
-	<h2 style="color:red">Hello world to Docker></h2>
+	<h2 style="color:red">Hello world to Docker deploy to tomcat container ></h2>
      
     <label for="Name"><b>Enter Name</b></label>
     <input type="text" placeholder="Enter Full Name" name="Name" id="Name" required>
